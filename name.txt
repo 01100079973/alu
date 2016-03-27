@@ -1,7 +1,0 @@
-Name:Eman magdy hossny mahmoud
-
-sec:3
- 
-no:72
-
-taken_time: 3 days 5 hrs/day
